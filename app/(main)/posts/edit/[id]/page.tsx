@@ -77,7 +77,7 @@ const PostEditPage = ({ params }: PostEditPageProps) => {
                 </FormLabel>
                 <FormControl>
                   <Input
-                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible: ring-offset-0'
+                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible:ring-offset-0'
                     placeholder='Enter Title'
                     {...field}
                   />
@@ -97,7 +97,7 @@ const PostEditPage = ({ params }: PostEditPageProps) => {
                 </FormLabel>
                 <FormControl>
                   <Textarea
-                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible: ring-offset-0'
+                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible:ring-offset-0'
                     placeholder='Enter Body'
                     {...field}
                   />
@@ -117,7 +117,7 @@ const PostEditPage = ({ params }: PostEditPageProps) => {
                 </FormLabel>
                 <FormControl>
                   <Input
-                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible: ring-offset-0'
+                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible:ring-offset-0'
                     placeholder='Enter Author'
                     {...field}
                   />
@@ -137,7 +137,7 @@ const PostEditPage = ({ params }: PostEditPageProps) => {
                 </FormLabel>
                 <FormControl>
                   <Input
-                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible: ring-offset-0'
+                    className='bg-slate-100 dark:bg-slate-500 border-0 focus-visible:ring-0 text-black dark:text-white focus-visible:ring-offset-0'
                     placeholder='Enter Date'
                     {...field}
                   />
@@ -147,7 +147,7 @@ const PostEditPage = ({ params }: PostEditPageProps) => {
             )}
           />
 
-          <Button className='w-full dark:bg-slate-800 dark: text-white'>
+          <Button className='w-full dark:bg-slate-800 dark:text-white'>
             Update Post
           </Button>
         </form>
