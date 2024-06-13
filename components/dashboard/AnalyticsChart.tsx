@@ -23,7 +23,7 @@ const AnalyticsChart = () => {
     <>
       <Card>
         <CardHeader>
-          <CardTitle>Analyics For This Year</CardTitle>
+          <CardTitle>Analytics For This Year</CardTitle>
           <CardDescription>Views Per Month</CardDescription>
         </CardHeader>
         <CardContent>
